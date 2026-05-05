@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Chanuka-KL.github.io/reference-iq37af/sitemap.xml
